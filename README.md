@@ -31,7 +31,7 @@ AWS Cloud | DevOps | Kubernetes | Terraform | CI/CD | Cloud Networking
 ## 🔗 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/ashokcsdev
-- GitHub: https://github.com/ashokcsdev
+- GitHub: [github.com/ashokcsdev](https://github.com/ashokcsdev)
 
 <!--
 **ashokcsdev/ashokcsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
