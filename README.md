@@ -24,7 +24,7 @@ AWS infrastructure automation using Terraform with Amazon EC2, Amazon EKS, S3 re
 
 🔗 [View Project](https://github.com/ashokcsdev/aws-devops-terraform-ec2)
 
-## 📚 Currently Learning
+## 📚 Focus Areas
 
 AWS Cloud | DevOps | Kubernetes | Terraform | CI/CD | Cloud Networking
 
@@ -32,18 +32,3 @@ AWS Cloud | DevOps | Kubernetes | Terraform | CI/CD | Cloud Networking
 
 - LinkedIn: https://www.linkedin.com/in/ashokcsdev
 - GitHub: [github.com/ashokcsdev](https://github.com/ashokcsdev)
-
-<!--
-**ashokcsdev/ashokcsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
